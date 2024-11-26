@@ -1,6 +1,6 @@
 Dear All
 
-This repo presents the relevant data needed to replicate our results in the academic paper: 'Electricity Network Capacity Constraint for Industrial Sites in Great Britain' by Ahmed Gailani and Peter Taylor. 
+This repo presents the relevant data needed to replicate our results in the academic paper: 'Assessing Electricity Network Capacity Requirements for Industrial Decarbonisation in Great Britain' by Ahmed Gailani and Peter Taylor. 
 
 We gratefully acknowledge the support of UK Research and Innovation (UKRI), the Engineering and Physical Sciences Research Council (EPSRC), the Natural Environment Research Council (NERC), and the Economic and Social Research Council (ESRC), for funding this study through the UK Energy Research Centre (UKERC, grant ref.: EP/S029575/1)). 
 
